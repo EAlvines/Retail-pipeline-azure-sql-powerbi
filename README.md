@@ -57,3 +57,25 @@ Automatización completa del flujo de datos.
 Procesamiento de múltiples archivos CSV de forma dinámica.
 Transformación y limpieza centralizada en SQL.
 Dashboard actualizado automáticamente en Power BI.
+
+# Prints
+## Contenedor en Azure
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/94d459bb-b595-411a-a5e2-2f537039ed3d" />
+
+## Pipeline Azure Data Factory
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/3592406f-41b0-4ea4-b37c-82af8ed307a8" />
+
+## Trigger
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/1f79e5ff-5f5f-43ab-b574-245ba327fd91" />
+
+## Prueba de flujo
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/2e50f392-aba5-4e68-8fdc-a81f027ce406" />
+
+## Power BI Service con Actualización
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/c3f20927-d870-4d45-9f05-6535e40f133d" />
+<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/e447845d-8553-4fac-919d-a2d9f6d51569" />
+
+
+
+
+
