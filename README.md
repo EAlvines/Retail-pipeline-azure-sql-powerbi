@@ -1,7 +1,12 @@
-# Retail-pipeline-azure-sql-powerbi
 # 🚀 Mini Proyecto ETL en Azure (ADF + Blob + SQL + Power BI)
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black) ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoftazure&logoColor=white)  
+
+---
+# 📌 Descripción
+
 Este proyecto implementa un flujo de integración de datos en **Azure Data Factory (ADF)**, utilizando **Azure Blob Storage**, **Azure SQL Database** y **Power BI** para construir un pipeline automatizado de carga, transformación y visualización que se actualiza según los triggers programados.
+
 ## 📂 Flujo del Proceso    
          ┌──────────────────────────┐
          │  CSV en Blob (landing)   │  ej: ventas_*.csv
